@@ -1,0 +1,13 @@
+# NGT Sign Language Recognition - Dependencies
+
+# Core computer vision
+opencv-python>=4.8.0
+mediapipe>=0.10.30
+numpy>=1.24.0
+
+# Web UI
+streamlit>=1.28.0
+
+# Optional: For better dynamic letter matching
+fastdtw>=0.3.4
+scipy>=1.10.0
